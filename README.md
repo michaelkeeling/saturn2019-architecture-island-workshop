@@ -1,6 +1,8 @@
 # SATURN 2019 Workshop -- Architecture Island
 
 ```
+Dear <familiar_name_here>,
+
 Congratulations!  You have been selected to establish a new colony
 on Architecture Island!  Your skills in software design have made
 you a highly valued member of our crew.  As a software architect,
