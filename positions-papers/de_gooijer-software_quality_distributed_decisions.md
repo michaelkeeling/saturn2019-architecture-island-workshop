@@ -1,6 +1,6 @@
 # Software Quality through Distributed Decision Making
 Thijmen de Gooijer (thijmen@acm.org), IT Architect at Kommuninvest, Örebro (Sweden)
-Submission to the SATURN 2019 workshop: .... May x, 2019 in Pittsburgh, PA, USA.
+Submission to the SATURN 2019 workshop: Architecture Island, May 6th, 2019 in Pittsburgh, PA, USA.
 
 _Disclaimer: the views expressed in this position paper are my own and do not reflect those of my employer._
 
