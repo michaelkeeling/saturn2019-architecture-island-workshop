@@ -53,7 +53,6 @@ Workshop participants are required to be registered for SATURN 2019.
 **More Information**
 
 - [How to Join the Workshop](how-to-join.md)
-- [Motivating Questions for Position Papers](questions.md)
 - [Reference Material to help Prepare for the Workshop](references.md)
 - [Tentative Workshop Agenda](agenda.md)
 
