@@ -61,7 +61,9 @@ Workshop participants are required to be registered for SATURN 2019.
 
 See [How to Join the Workshop](how-to-join.md).
 
-[Software Quality through Distributed Decision Making](positions-papers/de_gooijer-software_quality_distributed_decisions.md) by Thijmen de Gooijer 
+[Software Quality through Distributed Decision Making](positions-papers/de_gooijer-software_quality_distributed_decisions.md) by Thijmen de Gooijer
+
+[Five Things all Software Architects Need to Understand](positions-papers/Len-Bass.md) by Len Bass
 
 
 ## About SATURN
