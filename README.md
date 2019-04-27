@@ -64,6 +64,10 @@ See [How to Join the Workshop](how-to-join.md).
 
 [Five Things all Software Architects Need to Understand](positions-papers/Len-Bass.md) by Len Bass
 
+[Two Questions for Architecture Island](positions-papers/novakom-position_paper.md) by Marc Novakouski
+
+[Architecture Island Position Paper](position-papers/Bryan-Osterkamp.md) by Bryan Osterkamp
+
 
 ## About SATURN
 
