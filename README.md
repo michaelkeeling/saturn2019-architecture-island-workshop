@@ -68,6 +68,8 @@ See [How to Join the Workshop](how-to-join.md).
 
 [Architecture Island Position Paper](position-papers/Bryan-Osterkamp.md) by Bryan Osterkamp
 
+[Architecture Island Position Paper](positions-papers/Matthias-Kittner.md) by Matthias Kittner 
+
 
 ## About SATURN
 
