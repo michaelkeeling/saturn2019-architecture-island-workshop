@@ -70,6 +70,12 @@ See [How to Join the Workshop](how-to-join.md).
 
 [Architecture Island Position Paper](positions-papers/Matthias-Kittner.md) by Matthias Kittner 
 
+[Ruth Malan - Architecture Island Position Paper](position-papers/ruth-malan-position.md) by Ruth Malan
+
+[The Five Responsibilities of Architects](positions-papers/The%20Five%20Responsibilities%20of%20Architects.pdf) by Eltjo Poort
+
+
+
 
 ## About SATURN
 
