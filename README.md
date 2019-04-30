@@ -74,6 +74,7 @@ See [How to Join the Workshop](how-to-join.md).
 
 [The Five Responsibilities of Architects](positions-papers/The%20Five%20Responsibilities%20of%20Architects.pdf) by Eltjo Poort
 
+[John's Packing List](positions-papers/Arch_Island_JKlein.pdf) by John Klein
 
 
 
