@@ -63,21 +63,21 @@ See [How to Join the Workshop](how-to-join.md).
 To help prepare for the discussions, we invite you to read through some thoughts from
 other workshop participants, shared as position papers.
 
-[Software Quality through Distributed Decision Making](position-papers/de_gooijer-software_quality_distributed_decisions.md) by Thijmen de Gooijer
+[Software Quality through Distributed Decision Making](positions-papers/de_gooijer-software_quality_distributed_decisions.md) by Thijmen de Gooijer
 
-[Five Things all Software Architects Need to Understand](position-papers/Len-Bass.md) by Len Bass
+[Five Things all Software Architects Need to Understand](positions-papers/Len-Bass.md) by Len Bass
 
-[Two Questions for Architecture Island](position-papers/novakom-position_paper.md) by Marc Novakouski
+[Two Questions for Architecture Island](positions-papers/novakom-position_paper.md) by Marc Novakouski
 
-[Architecture Island Position Paper](position-papers/Bryan-Osterkamp.md) by Bryan Osterkamp
+[Architecture Island Position Paper](positions-papers/Bryan-Osterkamp.md) by Bryan Osterkamp
 
-[Architecture Island Position Paper](position-papers/Matthias-Kittner.md) by Matthias Kittner 
+[Architecture Island Position Paper](positions-papers/Matthias-Kittner.md) by Matthias Kittner 
 
-[Ruth Malan - Architecture Island Position Paper](position-papers/ruth-malan-position.md) by Ruth Malan
+[Ruth Malan - Architecture Island Position Paper](positions-papers/ruth-malan-position.md) by Ruth Malan
 
-[The Five Responsibilities of Architects](position-papers/The%20Five%20Responsibilities%20of%20Architects.pdf) by Eltjo Poort
+[The Five Responsibilities of Architects](positions-papers/The%20Five%20Responsibilities%20of%20Architects.pdf) by Eltjo Poort
 
-[John's Packing List](position-papers/Arch_Island_JKlein.pdf) by John Klein
+[John's Packing List](positions-papers/Arch_Island_JKlein.pdf) by John Klein
 
 
 
