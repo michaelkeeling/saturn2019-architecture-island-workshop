@@ -79,6 +79,7 @@ other workshop participants, shared as position papers.
 
 [John's Packing List](positions-papers/Arch_Island_JKlein.pdf) by John Klein
 
+[A Drafty Taxonomy of Architecture Design Knowledge](positions-papers/keeling-draft-taxonomy-of-architecture-design-knowledge.md) by Michael Keeling
 
 
 ## About SATURN
