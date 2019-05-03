@@ -35,38 +35,38 @@ of 2012 it was my idea of what I’d keep on Architecture Island and I was curio
 
 
 
-|Topic                                                                                                | DSA 2nd Edition | SAP 3rd Edition | Intro to SA |   |
-|------------------------------------------------------------------------------------------------------|:---------------:|:---------------:|:-----------:|---|
-| Views (module, C&C / Runtime, Allocation)                                                            |       Yes       |       Yes       |     Yes     |   |
-| * Master model unifies views                                                                         |        No       |        No       |     Yes     |   |
-| Stakeholders                                                                                         |       Yes       |       Yes       |      No     |   |
-| Quality attributes (vs functionality)                                                                |       Yes       |       Yes       |     Yes     |   |
-| * Architecture inhibits or enables                                                                   |       Yes       |       Yes       |     Yes     |   |
-| * Tied to failure risks                                                                              |        ?        |        ?        |     Yes     |   |
-| Requirements: QA vs feature                                                                          |       Yes       |       Yes       |     Yes     |   |
-| * QA requirements drive architecture                                                                 |       Yes       |       Yes       |     Yes     |   |
-| * QA scenarios                                                                                       |        No       |       Yes       |     Yes     |   |
-| * Argument: How this architecture meets requirements                                                 |       Yes       |        No       |      No     |   |
-| * Architecturally significant requirements (ASRs)                                                    |        ?        |       Yes       |     Yes     |   |
-| Architecture is a subset of design                                                                   |       Yes       |        ?        |     Yes     |   |
-| Contexts: Technical, lifecycle, business, professional                                               |        No       |       Yes       |      No     |   |
-| Architectural styles / patterns                                                                      |       Yes       |       Yes       |     Yes     |   |
-| * Module style: decomposition, uses, generalization, layers, aspects, data model                     |       Yes       |        No       |      No     |   |
-| * Runtime style: pipe and filter, client-server, peer-to-peer, SOA, pub-sub, shared-data, multi-tier |       Yes       |        No       |      No     |   |
-| * Allocation: deployment, install, work assignment                                                   |       Yes       |        No       |      No     |   |
-| Tactics                                                                                              |        No       |       Yes       |      No     |   |
-| * Attribute driven design                                                                            |        No       |       Yes       |      No     |   |
-| Architecture diagrams (vs cartoons)                                                                  |       Yes       |        ?        |      No     |   |
-| Notaions and ADLs: element catalog                                                                   |       Yes       |        No       |      No     |   |
-| Product line architectures                                                                           |       Yes       |       Yes       |      No     |   |
-| Architectural decisions                                                                              |       Yes       |        ?        |      No     |   |
-| * Rational architecture decisions                                                                    |        No       |        No       |     Yes     |   |
-| Interfaces: provided and required                                                                    |       Yes       |        No       |      No     |   |
-| Design reviews                                                                                       |       Yes       |       Yes       |      No     |   |
-| Align architecture and business goals                                                                |        No       |       Yes       |      No     |   |
-| Tradeoffs (and ATAM)                                                                                 |        No       |       Yes       |     Yes     |   |
-| Separate: Architecture, architects, architecting                                                     |        No       |       Yes       |     Yes     |   |
-| Constraints / guiderails                                                                             |       Yes       |       Yes       |     Yes     |   |
-| Conceptual model of architecture                                                                     |       Yes       |       Yes       |     Yes     |   |
-| Architecturally evident coding style                                                                 |        No       |        No       |     Yes     |   |
-| Architectural hoisting                                                                               |        No       |        No       |      No     |   |
+|Topic                                                                                                | DSA 2nd Edition | SAP 3rd Edition | Intro to SA |
+|------------------------------------------------------------------------------------------------------|:---------------:|:---------------:|:-----------:|
+| Views (module, C&C / Runtime, Allocation)                                                            |       Yes       |       Yes       |     Yes     |
+| * Master model unifies views                                                                         |        No       |        No       |     Yes     |
+| Stakeholders                                                                                         |       Yes       |       Yes       |      No     |
+| Quality attributes (vs functionality)                                                                |       Yes       |       Yes       |     Yes     |
+| * Architecture inhibits or enables                                                                   |       Yes       |       Yes       |     Yes     |
+| * Tied to failure risks                                                                              |        ?        |        ?        |     Yes     |
+| Requirements: QA vs feature                                                                          |       Yes       |       Yes       |     Yes     |
+| * QA requirements drive architecture                                                                 |       Yes       |       Yes       |     Yes     |
+| * QA scenarios                                                                                       |        No       |       Yes       |     Yes     |
+| * Argument: How this architecture meets requirements                                                 |       Yes       |        No       |      No     |
+| * Architecturally significant requirements (ASRs)                                                    |        ?        |       Yes       |     Yes     |
+| Architecture is a subset of design                                                                   |       Yes       |        ?        |     Yes     |
+| Contexts: Technical, lifecycle, business, professional                                               |        No       |       Yes       |      No     |
+| Architectural styles / patterns                                                                      |       Yes       |       Yes       |     Yes     |
+| * Module style: decomposition, uses, generalization, layers, aspects, data model                     |       Yes       |        No       |      No     |
+| * Runtime style: pipe and filter, client-server, peer-to-peer, SOA, pub-sub, shared-data, multi-tier |       Yes       |        No       |      No     |
+| * Allocation: deployment, install, work assignment                                                   |       Yes       |        No       |      No     |
+| Tactics                                                                                              |        No       |       Yes       |      No     |
+| * Attribute driven design                                                                            |        No       |       Yes       |      No     |
+| Architecture diagrams (vs cartoons)                                                                  |       Yes       |        ?        |      No     |
+| Notaions and ADLs: element catalog                                                                   |       Yes       |        No       |      No     |
+| Product line architectures                                                                           |       Yes       |       Yes       |      No     |
+| Architectural decisions                                                                              |       Yes       |        ?        |      No     |
+| * Rational architecture decisions                                                                    |        No       |        No       |     Yes     |
+| Interfaces: provided and required                                                                    |       Yes       |        No       |      No     |
+| Design reviews                                                                                       |       Yes       |       Yes       |      No     |
+| Align architecture and business goals                                                                |        No       |       Yes       |      No     |
+| Tradeoffs (and ATAM)                                                                                 |        No       |       Yes       |     Yes     |
+| Separate: Architecture, architects, architecting                                                     |        No       |       Yes       |     Yes     |
+| Constraints / guiderails                                                                             |       Yes       |       Yes       |     Yes     |
+| Conceptual model of architecture                                                                     |       Yes       |       Yes       |     Yes     |
+| Architecturally evident coding style                                                                 |        No       |        No       |     Yes     |
+| Architectural hoisting                                                                               |        No       |        No       |      No     |
