@@ -10,16 +10,17 @@ like the TV show Survivor).  It seems like a good idea to survey some of the mos
 on software architecture to create an inventory of what ideas we are starting with.  
 
 I intended to survey about a dozen books but it took more time than I’d expected so I (so far) 
-have only done two plus my Intro to Software Architecture lecture from 2012.  For this workshop, 
+have only done two plus my [Intro to Software Architecture lecture](https://www.georgefairbanks.com/blog/cu-boulder-intro-to-software-architecture-video/) from 2012.  For this workshop, 
 any list is better than no list, but I’d find it interesting to see which ideas span all or most 
 of the books on software architecture.
 
-I picked up Documenting Software Architectures (2nd edition) first as I remembered it as being 
+I picked up [Documenting Software Architectures (2nd edition)](https://www.amazon.com/Documenting-Software-Architectures-Views-Beyond/dp/0321552687) first as I remembered it as being 
 much like a catalog itself.  I skimmed the book and jotted down ideas or topics.  There’s a fair 
 amount of bias in this activity: in my haste I may not have noticed an idea, a different reader 
 might notice different ideas, and of course names differ across books and I was trying to align 
-them while jotting down notes.  Then I did the same for Software Architecture in Practice (3rd 
-edition) and my intro lecture.  I merged those lists into a table, doing some more subjective 
+them while jotting down notes.  Then I did the same for [Software Architecture in Practice (3rd 
+edition)](https://www.amazon.com/Software-Architecture-Practice-3rd-Engineering/dp/0321815734) 
+and my intro lecture.  I merged those lists into a table, doing some more subjective 
 merging and omitting of topics.  If by chance any of the workshop participants notice errors or 
 omissions (I’m looking at you Len Bass) then please let me know and I’ll fix up the table.
 
