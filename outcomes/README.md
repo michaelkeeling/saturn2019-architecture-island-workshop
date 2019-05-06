@@ -12,6 +12,7 @@
 ## Afternoon
 
 * Plenary discussion and reflection (TOOD: link to the notes)
-* Breakout 1: IT System, Safety Critical System, and Cloud/SaaS System (TODO: Link to notes)
+* Breakout 1: IT System, Safety Critical System, and Cloud/SaaS System 
+  [Notes](https://github.com/michaelkeeling/saturn2019-architecture-island-workshop/blob/master/outcomes/three-types-of-systems.md)
 * Breakout 2: All junior developers, all senior developers, distributed tream, vendor-managed team
 * Wrap-up and final thoughts
