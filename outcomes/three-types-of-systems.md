@@ -63,6 +63,6 @@ other things:
 
 ## Raw Outcomes
 
-![](top-10-IT-systems.jpg)
-![](top-10-cloud.jpg)
-![](top-10-safety-critical-systems.jpg)
+![](images/top-10-IT-systems.jpg)
+![](images/top-10-cloud.jpg)
+![](images/top-10-safety-critical-systems.jpg)
