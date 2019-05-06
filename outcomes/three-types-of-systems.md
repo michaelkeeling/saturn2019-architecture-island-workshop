@@ -59,3 +59,10 @@ Foundation 1-5 to support quality attributes (9)
 other things:
 * Decision making at the right time
 * Relationship building
+
+
+## Raw Outcomes
+
+![](top-10-IT-systems.jpg)
+![](top-10-cloud.jpg)
+![](top-10-safety-critical-systems.jpg)
