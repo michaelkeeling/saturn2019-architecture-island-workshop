@@ -14,15 +14,16 @@ Map 10 items of the different categories to the systems, prioritize them and mar
 * ~~Govern architecture~~
 * Views - 7
 * ~~ADLs~~
-Non-architectural tools - 12
+* Non-architectural tools - 12
 * ~~Extract stakeholder requirements~~
-* Business understanding - 1
+* Business understanding - 2
 * Competence in technical Environment - 5
 * ~~Evaluate Quality attributes~~
 * ~~Anticipate~~
 * Architecture Pattern catalog - 6
 * ~~System thinking~~
 * Relationship building - 8
+
 Draft picks:
 * COTS/Reference architecture, Wardly maps - 4
 
@@ -39,18 +40,18 @@ Draft picks:
 * 9/10 - Planning tools (Roadmap)
 
 # System 3: Cloud/SaaS
-Foundation to support quality attributes:
 * 1 - Technical competence
 * 2 - System thinking
 * 3 - Technical choice (in support of quality attributes)
 * 4 - Architecture patterns - MVP
 * 5 - Forensic tools
-
 * 6 - Architecture team/guild
 * 7 - Trade-offs
 * 8 - SRE model
 * 9 - Quality attributes: Security, availability, performance, reliability
 * 10 - Regulatory compliance
+
+Foundation 1-5 to support quality attributes (9)
 
 other things:
 * Decision making at the right time
