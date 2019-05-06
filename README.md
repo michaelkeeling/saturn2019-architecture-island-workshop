@@ -39,47 +39,32 @@ it’s essential core.  Participants will have the opportunity to share their
 reflection, takeaways, and lessons as lightning talks throughout the SATURN
 conference.
 
-The workshop will take place on Monday, May 6, 2019 in [Pittsburgh, PA during
+The workshop took place on Monday, May 6, 2019 in [Pittsburgh, PA during
 the SATURN 2019 conference on software architecture](https://resources.sei.cmu.edu/news-events/events/saturn/).
-Workshop participants are required to be registered for SATURN 2019.
 
-**Important Dates**
+## Workshop Participants
 
-- Workshop RSVP - April 22, 2019
-- Position papers deadline - April 29, 2019
-- Workshop - May 6, 2019 @ 8:30 AM
+* Michael Keeling - [@michaelkeeling](https://twitter.com/michaelkeeling)
+* Ruth Malan - [@ruthmalan](https://twitter.com/ruthmalan)
+* Marc Novakouski
+* Bradley Schmerl
+* (Owen) Shang-Wen Cheng - [@forebearer](https://twitter.com/forebearer)
+* John Klein
+* Thijmen de Gooijer
+* Bryan Osterkamp
+* Rajesh Murthy
+* Len Bass - [@lenbass4](https://twitter.com/lenbass4)
+* Matthias Kittner
+* Tobius Duerschmid - [@tdurschmid](https://twitter.com/tdurschmid)
+* Eltjo Poort - [@eltjopoort](https://twitter.com/eltjopoort)
 
-
-**More Information**
-
-- [How to Join the Workshop](how-to-join.md)
-- [Reference Material to help Prepare for the Workshop](references.md)
-- [Tentative Workshop Agenda](agenda.md)
+![](outcomes/images/people-9.jpg)
 
 ## Position Papers
 
-See [How to Join the Workshop](how-to-join.md).
-
-To help prepare for the discussions, we invite you to read through some thoughts from
-other workshop participants, shared as position papers.
-
-[Software Quality through Distributed Decision Making](positions-papers/de_gooijer-software_quality_distributed_decisions.md) by Thijmen de Gooijer
-
-[Five Things all Software Architects Need to Understand](positions-papers/Len-Bass.md) by Len Bass
-
-[Two Questions for Architecture Island](positions-papers/novakom-position_paper.md) by Marc Novakouski
-
-[Architecture Island Position Paper](positions-papers/Bryan-Osterkamp.md) by Bryan Osterkamp
-
-[Architecture Island Position Paper](positions-papers/Matthias-Kittner.md) by Matthias Kittner 
-
-[Ruth Malan - Architecture Island Position Paper](positions-papers/ruth-malan-position.md) by Ruth Malan
-
-[The Five Responsibilities of Architects](positions-papers/The%20Five%20Responsibilities%20of%20Architects.pdf) by Eltjo Poort
-
-[John's Packing List](positions-papers/Arch_Island_JKlein.pdf) by John Klein
-
-[A Drafty Taxonomy of Architecture Design Knowledge](positions-papers/keeling-draft-taxonomy-of-architecture-design-knowledge.md) by Michael Keeling
+[We asked everyone to do some thinking ahead of the workshop in the form of a brief position paper](positions-papers).
+The purpose of this position paper was to get everyone thinking critically about the topic on your
+own, but also by reading other ideas before the start of the workshop.
 
 
 ## About SATURN
