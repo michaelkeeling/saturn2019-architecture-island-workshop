@@ -37,3 +37,21 @@ Draft picks:
 * 4/5 - Open, Ethical Culture
 * 9/10 - Technical/Writing/Document Recisions
 * 9/10 - Planning tools (Roadmap)
+
+# System 3: Cloud/SaaS
+Foundation to support quality attributes:
+* 1 - Technical competence
+* 2 - System thinking
+* 3 - Technical choice (in support of quality attributes)
+* 4 - Architecture patterns - MVP
+* 5 - Forensic tools
+
+* 6 - Architecture team/guild
+* 7 - Trade-offs
+* 8 - SRE model
+* 9 - Quality attributes: Security, availability, performance, reliability
+* 10 - Regulatory compliance
+
+other things:
+* Decision making at the right time
+* Relationship building
