@@ -57,6 +57,7 @@ the SATURN 2019 conference on software architecture](https://resources.sei.cmu.e
 * Matthias Kittner
 * Tobius Duerschmid - [@tdurschmid](https://twitter.com/tdurschmid)
 * Eltjo Poort - [@eltjopoort](https://twitter.com/eltjopoort)
+* George Fairbanks - [@GHFairbanks](https://twitter.com/GHFairbanks)
 
 ![](outcomes/images/people-9.jpg)
 
