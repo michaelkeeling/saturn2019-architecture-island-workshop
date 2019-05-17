@@ -48,7 +48,7 @@ Structural integrity opens up into reliability and resilience, as well as being 
 to safely change and adapt the system as more is learned about needs, and the context
 shifts. Resilience pulls in works such as Richard Cook’s “How Complex Systems Fail” or
 John Gall’s Systemantics, as well as safety topics that don’t stay neatly in the technical
-space, because physiological safety impacts the organization’s ability to respond to
+space, because psychological safety impacts the organization’s ability to respond to
 failures with honesty and transparency, impacting adaptive capacity. So we get into
 Blame-Free Postmortems. 
  
