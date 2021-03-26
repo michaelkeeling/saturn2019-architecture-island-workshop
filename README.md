@@ -67,6 +67,10 @@ the SATURN 2019 conference on software architecture](https://resources.sei.cmu.e
 The purpose of this position paper was to get everyone thinking critically about the topic on your
 own, but also by reading other ideas before the start of the workshop.
 
+## Workshop Summary
+
+In addition to reflection from participants posted across the web, we created [a summary presentation shared
+with the SATURN community on the last day of the conference](https://docs.google.com/presentation/d/e/2PACX-1vTGUDYWeq5xVKTkFuR3IWFJ3Dlh_V1kyqV5n0dtZCbq86N8oAVdC0fBruRj_jNWY4xxVN04x_dt6AVU/pub?start=false&loop=false&delayms=3000).
 
 ## About SATURN
 
